@@ -5,6 +5,7 @@ import { useNavigate } from "react-router-dom";
 
 
 const responseGoogleFail= (res)=>{
+    alert(res.error)
     console.log(res);
 }
   const GoogleSignInButton = () => {
