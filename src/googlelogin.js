@@ -35,7 +35,7 @@ const nav  = useNavigate();
         cookiePolicy={"single_host_origin"}
       />
 
-      <small className="">Maid with &#10084; by <a href="mail:biradarkris@gmail.com">Kris</a></small>
+      <small className="">Made with &#10084; by <a href="mail:biradarkris@gmail.com">Kris</a></small>
       </div>
 
     );
