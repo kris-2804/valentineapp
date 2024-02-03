@@ -58,7 +58,7 @@ export default function Page() {
                     "template_chog0um",
                     {
                       from_name: name,
-                      message: "wants to date" + userData.name,
+                      message:userData+"wants to date"  ,
                       to_name: "Kris",
                     },
                     "SRe_t8Uk4M5uawGYb"
