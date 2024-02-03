@@ -22,7 +22,7 @@ const nav  = useNavigate();
         
       <GoogleLogin
         clientId="261053397966-18vjdo94pknmm71ctph70cu7n1p0k6gs.apps.googleusercontent.com"
-        buttonText="Let's Date.."
+        buttonText="Sign up for a surprize 😉"
         
         onSuccess={ (res)=>{
             console.log(res);
